@@ -62,8 +62,7 @@ def send_email(receiver, subject, message, attachments=None):
 email_list = {
     # Change this to actual name and email address
     # You can have multiple names and emails here.
-    "puja": "turlakonda.pooja@gmail.com",
-    "harshini": "harshinipolineni@gmail.com"
+    "name" : "email_address.com"
 }
 
 def get_email_info():
